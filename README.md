@@ -52,15 +52,9 @@ me.say_hi()
    </p>
 
 ### 📊 Github Stats
-<a href='https://github.com/benito5142/github-stats-transparent'>
-
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=benito5142&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benito5142&hide=TeX&layout=compact)
 
-</a>
-
-
-</a>
 
 ### - Languages and Tools...
 
