@@ -134,10 +134,7 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/Ashutosh00710/main/assets/wave.svg" alt="Wave SVG" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom wave" />
-</p>
 
