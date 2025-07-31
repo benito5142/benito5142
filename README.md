@@ -93,8 +93,7 @@ Mastering Prompt Design in Vertex AI:https://dev.to/benito5771/mastering-prompt-
 
 Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 
-
- ## 🏆 Achievements
+  ## 🏆 Achievements
 
 - 🎖️ Completed internship as Python Developer at **Crosspoint Technologies LLP**, Bengaluru.
 - 🧠 Earned **Prompt Design in Vertex AI** badge from **Google Cloud Skills Boost**.
@@ -104,9 +103,11 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 - 📘 Created tools like **BOMViewerApp** using **Tkinter**, **OpenPyXL**, and Excel automation.
 - 📄 Published tech blogs on platforms like **Dev.to**.
 - 📊 Built an **Employment Management System** & **Job Portal** for Small Scale Industries.
-
+<!-- Add this for spacing -->
+<br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=benito5142)](https://github.com/benito5142/github-profile-trophy)
-
+<!-- Add this for spacing -->
+<br><br>
 
  ## 🌐 Connect with Me
 
