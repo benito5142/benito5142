@@ -39,7 +39,7 @@ me.say_hi()
 
 🌱 Currently enhancing my skills with projects like BOM Viewer, Employment Management System, and more!
 
-📫 Reach me via: `benitofarayer@gmail.com` or [LinkedIn]( www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=benito-f-a-rayer)
+📫 Reach me via: `benitofarayer@gmail.com` or [LinkedIn](https://www.linkedin.com/in/benito-f-a-rayer/)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
