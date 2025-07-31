@@ -112,13 +112,14 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
  ## 🌐 Connect with Me
 
 
-<p align='center'>
+<p align='left'>
    <a href="https://www.linkedin.com/in/benito-f-a-rayer/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://x.com/BK7_youtube"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/benito5771"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=10008579692790"><img height="30" alt="image" src="https://github.com/user-attachments/assets/06a7d623-6063-48c9-97f1-ab31ae012827" /></a>&nbsp;&nbsp;
  <a href="https://buymeacoffee.com/bk7.youtube?status=1"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
+ <br><br>
  <h2 align="center">🤝 Support</h2>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
