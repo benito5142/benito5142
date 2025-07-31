@@ -120,7 +120,7 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
  <a href="https://buymeacoffee.com/bk7.youtube?status=1"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
  <br><br>
- <h2 align="center">🤝 Support</h2>
+ <h1 align="center">🤝 Support</h1>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
