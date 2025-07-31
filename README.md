@@ -133,8 +133,9 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 <!-- Footer video (simulated like a background footer) -->
 <p align="center">
   <br>
+<!-- Footer Section -->
 <p align="center">
-  <img src="https://github.com/benito5142/benito5142/blob/main/Benito_new_Animation.gif?raw=true" alt="Footer GIF" width="1000" height="150" />
+  <img src="Benito_new__Animation.gif" alt="Footer Animation" width="400" height="200">
 </p>
 
 
