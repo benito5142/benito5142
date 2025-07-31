@@ -106,6 +106,10 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=benito5142)](https://github.com/benito5142/github-profile-trophy)
 
+
+ ## 🌐 Connect with Me
+
+
 <p align='center'>
    <a href="https://www.linkedin.com/in/benito-f-a-rayer/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://x.com/BK7_youtube"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
