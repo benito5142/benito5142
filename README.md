@@ -41,7 +41,7 @@ me.say_hi()
 
 📫 Reach me via: `benitofarayer@gmail.com` or [LinkedIn](https://www.linkedin.com/in/benito-f-a-rayer/)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://giphy.com/gifs/jerseydemic-26BGIqWh2R1fi6JDa" width="80%" />
 
 
 
