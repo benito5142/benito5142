@@ -31,7 +31,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-🌟 Mastering Prompt Design in Vertex AI – My New Google Cloud Skill Badge!:https://dev.to/benito5771/mastering-prompt-design-in-vertex-ai-my-new-google-cloud-skill-badge-dc
+🌟 Mastering Prompt Design in Vertex AI:https://dev.to/benito5771/mastering-prompt-design-in-vertex-ai-my-new-google-cloud-skill-badge-dc
 Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 
 
