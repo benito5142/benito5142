@@ -77,17 +77,33 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/react.svg" alt="React" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/nextjs.svg" alt="Next.js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/typescript.svg" alt="TypeScript" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/tailwindcss.svg" alt="Tailwind CSS" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/python.svg" alt="Python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/kali_linux.svg" alt="Kali Linux" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/unity.svg" alt="Unity" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/unreal_engine.svg" alt="Unreal Engine" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/google_cloud.svg" alt="Google Cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg" alt="Git" style="vertical-align:top; margin:4px">
+  <!-- Python -->
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px" width="40"/>
+
+<!-- Kali Linux -->
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/kali_linux.svg" alt="Kali Linux" style="vertical-align:top; margin:4px" width="40"/>
+
+<!-- Unity -->
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/unity.svg" alt="Unity" style="vertical-align:top; margin:4px" width="40"/>
+
+<!-- Unreal Engine -->
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/unreal_engine.svg" alt="Unreal Engine" style="vertical-align:top; margin:4px" width="40"/>
+
+<!-- Google Cloud -->
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Google Cloud" style="vertical-align:top; margin:4px" width="40"/>
+
+<!-- Git -->
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg" alt="Git" style="vertical-align:top; margin:4px" width="40"/>
+
+<!-- TypeScript -->
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/typescript.svg" alt="TypeScript" style="vertical-align:top; margin:4px" width="40"/>
+
+<!-- Tailwind CSS -->
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/tailwind.svg" alt="Tailwind CSS" style="vertical-align:top; margin:4px" width="40"/>
+
+<!-- Next.js -->
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/nextjs.svg" alt="Next.js" style="vertical-align:top; margin:4px" width="40"/>
+
 
 </p>
 
