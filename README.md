@@ -72,8 +72,18 @@ me.say_hi()
  
 </p>
 
+#### Top Repositories
 
 
+<a href="https://github.com/benito5142/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/benito5142/benito5142.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=benito51142.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 
 ## 📝 Blogs
@@ -83,20 +93,16 @@ Mastering Prompt Design in Vertex AI:https://dev.to/benito5771/mastering-prompt-
 Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 
 
+ ## 🏆 Achievements
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 🎖️ Completed internship as Python Developer at **Crosspoint Technologies LLP**, Bengaluru.
+- 🧠 Earned **Prompt Design in Vertex AI** badge from **Google Cloud Skills Boost**.
+- 🛡️ Hands-on experience in **Cybersecurity** using **Kali Linux** and **Parrot OS**.
+- 🕹️ Built games using **Unity** and **Unreal Engine 5**.
+- 🌐 Developed a professional portfolio: [bk7-portfolio.vercel.app](https://bk7-portfolio.vercel.app/)
+- 📘 Created tools like **BOMViewerApp** using **Tkinter**, **OpenPyXL**, and Excel automation.
+- 📄 Published tech blogs on platforms like **Dev.to**.
+- 📊 Built an **Employment Management System** & **Job Portal** for Small Scale Industries.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=benito5142)](https://github.com/benito5142/github-profile-trophy)
 
