@@ -27,7 +27,7 @@ me.say_hi()
 
 ## ✨ About Me
 
-## 👋 Hi there! I'm Benito F. A. Rayer
+👋 Hi there! I'm Benito F. A. Rayer
 
 🎓 I'm a Computer Science Engineering student at LICET (Loyola-ICAM College of Engineering and Technology).
 
