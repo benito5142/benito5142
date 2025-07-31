@@ -135,9 +135,15 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 <p align="center">
   <br>
 <!-- Footer Section -->
+<!-- Other content of your README -->
+
+---
+
+<!-- Footer GIF -->
 <p align="center">
-  <img src="Benito_lat_Animation(1).gif" alt="Footer Animation" width="1000" height="200">
+  <img src="Benito_lat_Animation%20(1).gif" alt="Footer Animation" width="400" height="200">
 </p>
+
 
 
 
