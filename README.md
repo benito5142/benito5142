@@ -42,7 +42,7 @@ me.say_hi()
 📫 Reach me via: `benitofarayar.26csa@licet.ac.in` or [LinkedIn](https://www.linkedin.com/in/benito-f-a-rayer/)
 
 |<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWEyejN2cnRxZzRsaW5paTdoc3RoMGhjeDB6OHZ5cHBleThwdzRvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BGIqWh2R1fi6JDa/giphy.gif" width="40%" />|<img  width="40" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">|
-| ------------- | ------------- |
+
 
 
  <p align="center">
