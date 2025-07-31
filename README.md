@@ -55,7 +55,7 @@ me.say_hi()
 <a href='https://github.com/benito5142/github-stats-transparent'>
 
 ![Stats Overview](https://raw.githubusercontent.com/benito5142/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/benito5142/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benito5142&hide=TeX&layout=compact)
 
 </a>
 
