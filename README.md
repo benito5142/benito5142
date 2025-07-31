@@ -119,3 +119,16 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 <a href="https://www.facebook.com/profile.php?id=10008579692790"><img height="30" alt="image" src="https://github.com/user-attachments/assets/06a7d623-6063-48c9-97f1-ab31ae012827" /></a>&nbsp;&nbsp;
  <a href="https://buymeacoffee.com/bk7.youtube?status=1"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
+ <h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
