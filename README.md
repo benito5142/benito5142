@@ -106,6 +106,7 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=benito5142)](https://github.com/benito5142/github-profile-trophy)
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
  ## 🌐 Connect with Me
 
