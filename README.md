@@ -78,13 +78,32 @@ me.say_hi()
 ## 🚀 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/benito5142/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=github-readme-stats&theme=dark" />
+  <a href="https://github.com/benito5142/Online-Banking-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=Online-Banking-system&theme=tokyonight" />
   </a>
-  <a href="https://github.com/benito5142/benito5142.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=benito5142.github.io&theme=dark" />
+  <a href="https://github.com/benito5142/Bus-Ticket-Booking-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=Bus-Ticket-Booking-System&theme=tokyonight" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/benito5142/Bk7-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=Bk7-Portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/benito5142/devops_react_vita">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=devops_react_vita&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/benito5142/WEB_Technologies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=WEB_Technologies&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/benito5142/restuarent_app_front-back">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=restuarent_app_front-back&theme=tokyonight" />
+  </a>
+</p>
+
 
 
 <br />
