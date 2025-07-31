@@ -25,6 +25,25 @@ me = FullStack Developer()
 me.say_hi()
 ```
 
+## ✨ About Me
+
+## 👋 Hi there! I'm Benito F. A. Rayer
+
+🎓 I'm a Computer Science Engineering student at LICET (Loyola-ICAM College of Engineering and Technology).
+
+💻 Passionate about Full Stack Development, Game Development (Unity & Unreal Engine 5), and Cybersecurity (Kali Linux, Parrot OS).
+
+🛠️ I build desktop apps in Python using Tkinter, web apps with React, and mobile apps using React Native & Apache Cordova.
+
+🧠 I'm always exploring new tech, from 3D modeling in Blender to ethical hacking tools and DevOps utilities.
+
+🌱 Currently enhancing my skills with projects like BOM Viewer, Employment Management System, and more!
+
+📫 Reach me via: `benitofarayer@gmail.com` or [LinkedIn](https://www.linkedin.com/in/benitofarayer)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+
 
 
 
@@ -32,6 +51,7 @@ me.say_hi()
 ## 📝 Blogs
 
 Mastering Prompt Design in Vertex AI:https://dev.to/benito5771/mastering-prompt-design-in-vertex-ai-my-new-google-cloud-skill-badge-dc
+
 Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 
 
