@@ -69,12 +69,13 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 
 
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=benito5142)](https://github.com/benito5142/github-profile-trophy)
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/benito-f-a-rayer/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://x.com/BK7_youtube"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/benito5771"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=10008579692790"><img src="https://img.icons8.com/fluency/48/facebook-new.png" width="30"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=10008579692790"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/06a7d623-6063-48c9-97f1-ab31ae012827" /></a>&nbsp;&nbsp;
  <a href="https://buymeacoffee.com/bk7.youtube?status=1"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
