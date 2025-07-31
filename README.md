@@ -112,7 +112,7 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
  ## 🌐 Connect with Me
 
 
-<p align='left'>
+<p align='center'>
    <a href="https://www.linkedin.com/in/benito-f-a-rayer/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://x.com/BK7_youtube"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/benito5771"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
