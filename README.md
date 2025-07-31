@@ -133,11 +133,10 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 <!-- Footer video (simulated like a background footer) -->
 <p align="center">
   <br>
-  <video width="100%" height="auto" autoplay loop muted>
-    <source src="https://raw.githubusercontent.com/benito5142/benito5142/main/pinterest_media.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <p align="center">
+  <img src="https://github.com/benito5142/benito5142/blob/main/Benito_Animation%20(1).gif?raw=true" alt="Footer Animation" />
 </p>
+
 
 
 
