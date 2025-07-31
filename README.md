@@ -2,7 +2,12 @@
   [![Matrix SVG](https://github.com/benito5142/Benito_banner/blob/e1dd3832f8f4ebd5deee44579bdefc3c61de2ed6/Benito_Animation.gif)]( https://benito5142.github.io/Benito-HUB-Profile/) 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=benito5142.benito5142)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/benito5142)
+[![GitHub Followers](https://img.shields.io/github/followers/benito5142?label=Follow&style=social)](https://github.com/benito5142)
+[![GitHub Stars](https://img.shields.io/github/stars/benito5142?style=social)](https://github.com/benito5142?tab=stars)
+
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 ```python
@@ -73,16 +78,17 @@ me.say_hi()
  
 </p>
 
-#### Top Repositories
+## 🚀 Top Repositories
 
+<p align="center">
+  <a href="https://github.com/benito5142/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=github-readme-stats&theme=dark" />
+  </a>
+  <a href="https://github.com/benito5142/benito5142.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=benito5142.github.io&theme=dark" />
+  </a>
+</p>
 
-<a href="https://github.com/benito5142/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=github-readme-stats&theme=buefy" />
-</a>
-<br />
-<a href="https://github.com/benito5142/benito5142.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=benito51142.github.io&theme=buefy" />
-</a>
 
 <br />
 <br />
