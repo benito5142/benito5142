@@ -79,6 +79,7 @@ me.say_hi()
 <a href="https://github.com/benito5142/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=github-readme-stats&theme=buefy" />
 </a>
+<br />
 <a href="https://github.com/benito5142/benito5142.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benito5142&repo=benito51142.github.io&theme=buefy" />
 </a>
@@ -135,7 +136,7 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
   <br>
 <!-- Footer Section -->
 <p align="center">
-  <img src="Benito_new__Animation.gif" alt="Footer Animation" width="1000" height="200">
+  <img src="Benito_lat_Animation.gif" alt="Footer Animation" width="1000" height="200">
 </p>
 
 
