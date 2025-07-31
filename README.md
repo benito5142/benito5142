@@ -134,7 +134,7 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 <p align="center">
   <br>
 <p align="center">
-  <img src="https://github.com/benito5142/benito5142/blob/main/Benito_Animation.gif?raw=true" alt="Footer GIF" width="1000" height="150" />
+  <img src="https://github.com/benito5142/benito5142/blob/main/Benito_new_Animation.gif?raw=true" alt="Footer GIF" width="1000" height="150" />
 </p>
 
 
