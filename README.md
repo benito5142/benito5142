@@ -51,8 +51,13 @@ me.say_hi()
   <h4> Full Stack | Competitive Programming </h4>
    </p>
 
-| <a href="https://github.com/benito5142/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=benito5142&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="benitoe's github stats" /></a> | <a href="https://github.com/benito5142/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benito5142&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 📊 Github Stats
+<a href='https://github.com/benito5142/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/benito5142/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/benito5142/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 ### - Languages and Tools...
 
