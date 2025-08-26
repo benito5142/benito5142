@@ -119,7 +119,7 @@ me.say_hi()
 Mastering Prompt Design in Vertex AI:https://dev.to/benito5771/mastering-prompt-design-in-vertex-ai-my-new-google-cloud-skill-badge-dc
 
 Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
-
+<br><br>
   ## 🏆 Achievements
 
 - 🎖️ Completed internship as Python Developer at **Crosspoint Technologies LLP**, Bengaluru.
@@ -133,7 +133,6 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 <!-- Add this for spacing -->
 <br><br>
 <!-- Add this for spacing -->
-<br><br>
 
  ## 🌐 Connect with Me
 
