@@ -132,7 +132,6 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 - 📊 Built an **Employment Management System** & **Job Portal** for Small Scale Industries.
 <!-- Add this for spacing -->
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Add this for spacing -->
 <br><br>
 
