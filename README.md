@@ -136,7 +136,7 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benito5142&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=benito5142&theme=juicyfresh" alt="GitHub Trophies" />
 </p>
 <br><br>
  ## 🌐 Connect with Me
