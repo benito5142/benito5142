@@ -79,7 +79,7 @@ me.say_hi()
  
 </p>
 
-## 🚀 Top Repositories
+<!-- ## 🚀 Top Repositories  
 
 <p align="center">
   <a href="https://github.com/benito5142/Social-media-clone-truffle">
@@ -112,7 +112,7 @@ me.say_hi()
 
 <br />
 <br />
-
+-->
 
 ## 📝 Blogs
 
