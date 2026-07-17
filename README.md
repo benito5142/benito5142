@@ -133,12 +133,13 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 <!-- Add this for spacing -->
 <br><br>
 <!-- Add this for spacing -->
+
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benito5142&theme=juicyfresh" alt="GitHub Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=benito5142&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br><br>
+
  ## 🌐 Connect with Me
 
 
