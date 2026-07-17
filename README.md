@@ -136,7 +136,39 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=benito5142&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+<!--Trophies Section-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+
+<p align="center">
+  <a href="https://github.com/benito5142">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-trophy-ruddy.vercel.app/?username=benito5142&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=juicyfresh"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-trophy-ruddy.vercel.app/?username=benito5142&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=juicyfresh"
+      />
+      <img
+        alt="GitHub Trophies"
+        src="https://github-profile-trophy-ruddy.vercel.app/?username=benito5142&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=juicyfresh"
+      />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/benito5142/achievements?format=svg&limit=6"
+      width="400"
+      alt="Vaunt Achievements"
+    />
+  </a>
+</p>
+
+<br />
 
 <br><br>
 
