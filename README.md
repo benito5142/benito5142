@@ -133,7 +133,7 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 <!-- Add this for spacing -->
 <br><br>
 <!-- Add this for spacing -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=benito5142&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=benito5142&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 <br><br>
  ## 🌐 Connect with Me
 
