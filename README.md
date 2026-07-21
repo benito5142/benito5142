@@ -54,7 +54,7 @@ me.say_hi()
 ### 📊 Github Stats
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=benito5142&show_icons=true&theme=transparent)
-| ------------- | ------------- |
+
 
 
 
