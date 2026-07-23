@@ -159,9 +159,11 @@ Progressive web apps:https://dev.to/benito5771/progressive-web-apps-4dg2
 </p>
 
 <p align="center">
-  <a href="https://github.com/daytonaio/daytona">
+  <a href="https://community.vaunt.dev/board/benito5142/achievements">
     <img
-      src="https://api.vaunt.dev/v1/github/entities/benito5142/achievements?format=svg&limit=6"
+      loading="lazy"
+      decoding="async"
+      src="https://api.vaunt.dev/v1/github/entities/benito5142/achievements?format=svg&limit=6&raw=true"
       width="400"
       alt="Vaunt Achievements"
     />
